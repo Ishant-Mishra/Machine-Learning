@@ -1,0 +1,32 @@
+# Virtual environments
+venv/
+venv-eda/
+
+# Projects folder
+PROJECTS/
+
+# Large model/generated files
+similarity.pkl
+movie_dict.pkl
+
+# Files I don't want in GitHub
+app.py
+cheatsheets Matplotlib.pdf
+ml_ebook.pdf
+
+# Large datasets
+tmdb_5000_credits.csv
+tmdb_5000_movies.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter cache
+.ipynb_checkpoints/
+
+# Environment/secrets
+.env
+
+.vscode/
+my-project/
